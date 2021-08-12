@@ -82,25 +82,25 @@
 //3. 
 
 const somar = (num1, num2) => {
-    resultado = num1 + num2
+    const resultado = num1 + num2
 
     return resultado
 }
 
 const subtrair = (num1, num2) => {
-    resultado = num1 - num2
+    const resultado = num1 - num2
     
     return resultado
 }
 
 const multiplicar = (num1, num2) => {
-    resultado = num1 * num2
+    const resultado = num1 * num2
 
     return resultado
 }
 
 const dividir = (num1, num2) => {
-    resultado = num1 / num2
+    const resultado = num1 / num2
 
     return resultado
 }
