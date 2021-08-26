@@ -131,6 +131,14 @@ td button:hover {
     height: 100px;
 }
 
+.container-do-search:hover {
+    opacity: 30%
+}
+
+.container-do-search:active {
+    opacity: 100%
+}
+
 
 #back-button {
     background-color: white;
@@ -149,4 +157,6 @@ td button:hover {
 #back-button:hover {
     background-color: #635a3d
 }
+
+
 
