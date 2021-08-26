@@ -1,0 +1,60 @@
+.background-home {
+    background-image: url(./img/background-ceu.jpg);
+    background-size: cover;
+}
+
+.background-paginas {
+    background-image: url(./img/background-ceu.jpg);
+}
+
+.titulo-boas-vindas {
+    text-align: center;
+    color: white;
+    padding: 25px;
+    margin: auto;
+}
+
+.outros-textos {
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+.espaco-menu {
+    color: white;
+    text-align: center;
+    padding: 30px;
+    display: inline;
+}
+
+footer {
+    background-color:#01143b;
+    color: white;
+    position: static;
+
+}
+
+.bloco-direita {
+    color: white;
+    display: inline;
+    text-align: right;
+}
+
+.titulo-paginas {
+    text-align: center;
+    color: white;
+    padding: 25px;
+    margin: auto;
+    font-size: 40px;
+}
+
+.centralizar-titulos {
+    text-align: center;
+    color: white
+}
+
+.centralizar-textos-tabelas {
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
