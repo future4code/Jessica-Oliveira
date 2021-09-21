@@ -1,0 +1,13 @@
+.small-card-container {
+  display: flex;
+}
+
+/* .telefone-container {
+  display: flex;
+  grid-template-columns: 1fr 1fr;
+}
+
+.email-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+} */
